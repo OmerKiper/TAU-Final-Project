@@ -1,6 +1,4 @@
 // GUI siftware for Multichannel Controller project 22-1-2-2564 at Tel Aviv University
-// Ariel Mimran - 207019142
-// Omer Kiper - 315405753
 
 // importing relevant libraries
 import controlP5.*;
