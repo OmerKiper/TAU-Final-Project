@@ -1,6 +1,4 @@
 // Arduino UNO controller for Multichannel Controller project 22-1-2-2564 at Tel Aviv University
-// Ariel Mimran - 207019142
-// Omer Kiper - 315405753
 
 // giving meaningful names to the relevant pins which we use in the controller and creating global variables
 int PWM_1 = 9;
